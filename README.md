@@ -1,7 +1,7 @@
 # OOP Project
 
 ## Overview
-This is a simple OOP project implemented in Typescript.
+This repository contains the source code and associated files for the OOP. The project is a text-based interactive OOP implemented in Typescript
 
 ## Usage
 Run the OOP:
