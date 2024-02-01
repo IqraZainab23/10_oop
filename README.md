@@ -1,7 +1,7 @@
 # OOP Project
 
 ## Overview
-This is a simple Number Guessing game implemented in Typescript.
+This is a simple OOP project implemented in Typescript.
 
 ## Usage
 Run the OOP:
